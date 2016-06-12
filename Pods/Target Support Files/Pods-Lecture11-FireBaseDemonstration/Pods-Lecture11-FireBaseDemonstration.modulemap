@@ -1,0 +1,6 @@
+framework module Pods_Lecture11_FireBaseDemonstration {
+  umbrella header "Pods-Lecture11-FireBaseDemonstration-umbrella.h"
+
+  export *
+  module * { export * }
+}
